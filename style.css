@@ -99,7 +99,23 @@ a {
         width: 95%;
     }
 }
+@media screen and (max-width: 768px) {
 
+   
+    #join-btn {
+        font-size: 14px;
+        padding: 15px 30px;
+    }
+
+    #video-streams {
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        width: 90%;
+    }
+
+    .bottom-container {
+        margin-left: 0; 
+    }
+}
 .copyright {
     color: #EAF6F6;
     background-color: #203A49;
