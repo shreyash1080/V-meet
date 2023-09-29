@@ -138,7 +138,9 @@ h1, h2, h3, p {
     color: white;
 }
 
-
+ body{
+    width: 100%;
+ }
 
 p {
     line-height: 2;
