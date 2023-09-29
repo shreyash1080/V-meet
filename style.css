@@ -115,6 +115,10 @@ a {
     .bottom-container {
         margin-left: 0; 
     }
+    
+ body{
+    width: 100%;
+ }
 }
 .copyright {
     color: #EAF6F6;
@@ -138,9 +142,6 @@ h1, h2, h3, p {
     color: white;
 }
 
- body{
-    width: 100%;
- }
 
 p {
     line-height: 2;
